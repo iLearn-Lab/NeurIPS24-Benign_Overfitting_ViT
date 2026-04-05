@@ -39,11 +39,11 @@ Welcome to the official repository for **Benign Overfitting ViT**. This project 
 
 ## 📊 Main Results
 
-### Perplexity Results
+### Heatmap
 
 ![heatmap](./figs/img1.png)
 
-### Speedup Results
+### Cutoff Heatmap
 
 ![cutoff heatmap](./figs/img2.png)
 
